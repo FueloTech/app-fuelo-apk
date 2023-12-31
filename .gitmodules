@@ -1,0 +1,9 @@
+[submodule "modules/app_fuelo_common"]
+	path = modules/app_fuelo_common
+	url = https://github.com/FueloTech/app_fuelo_common.git
+[submodule "modules/app_fuelo_start"]
+	path = modules/app_fuelo_start
+	url = https://github.com/FueloTech/app_fuelo_start.git
+[submodule "modules/app_fuelo_style"]
+	path = modules/app_fuelo_style
+	url = https://github.com/FueloTech/app_fuelo_style.git
